@@ -35,12 +35,3 @@ remoto; la misma es mostrada a continuación.
 
 Ya en ésta parte podemos ingresar la url del repositorio, junto con los datos de nuestro
 usuario en la plataforma.
-
-### 4. Obtener el url del proyecto
-
-En la siguiente imagen, se puede observar la opción de clonar el repositorio, pero esto
-nos abre la posibilidad de copiar la url del mismo para ingresarla en nuestro IDE
-y que él mismo se encargue de la descarga o, realizar la descarga uno mismo de un archivo
-comprimido en formato zip con todo el código del repositorio.
-
-![](https://github.com/JassonRomero/ProyectoRedes/blob/master/urlGitProyecto.png)
