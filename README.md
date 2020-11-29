@@ -1,6 +1,6 @@
 # Proyecto Dos Redes, Servidor HTTP & HTTPS
  
-La intención de este proyecto es emular la funcionalidad de la aplicación Dropbox, la cual consiste en el almacenaje de archivos en la nube (Respaldarlos), desde cada dispositivo cliente.
+La intención de este proyecto es emular la funcionalidad de un servidor web, la cual consiste en almacenar diferentes páginas web y al consultar su direccion en un navegador se nos muestra en pantalla.
 
 Para poder ejecutar el código de éste repositorio se necesita de un Entorno de Desarrollo Integrado (IDE) llamado NetBeans, pero además de ello y puesto que la aplicación está escrita en código Java son necesarios dos programas adicionales, que son los siguientes, Java Runtime Environment (JRE) que se puede descargar en https://www.java.com/es/download/ y, el Java Development Kit (JDK) pero para el mismo existe una opción que viene en conjunto con NetBeans, que se puede obtener en https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
 
@@ -35,3 +35,5 @@ remoto; la misma es mostrada a continuación.
 
 Ya en ésta parte podemos ingresar la url del repositorio, junto con los datos de nuestro
 usuario en la plataforma.
+
+# Descripción Técnica
