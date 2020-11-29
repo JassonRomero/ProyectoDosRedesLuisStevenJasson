@@ -1,4 +1,5 @@
-##Proyecto Dos Redes, Servidor HTTP & HTTPS
+# Proyecto Dos Redes, Servidor HTTP & HTTPS
+ 
 La intención de este proyecto es emular la funcionalidad de la aplicación Dropbox, la cual consiste en el almacenaje de archivos en la nube (Respaldarlos), desde cada dispositivo cliente.
 
 Para poder ejecutar el código de éste repositorio se necesita de un Entorno de Desarrollo Integrado (IDE) llamado NetBeans, pero además de ello y puesto que la aplicación está escrita en código Java son necesarios dos programas adicionales, que son los siguientes, Java Runtime Environment (JRE) que se puede descargar en https://www.java.com/es/download/ y, el Java Development Kit (JDK) pero para el mismo existe una opción que viene en conjunto con NetBeans, que se puede obtener en https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
@@ -22,7 +23,7 @@ y escribir aplicaciones en código Java, además de otros lenguajes de programac
 
 ### 3. Descarga del código del repositorio de Github
 
-![]()
+![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/main/imagen.png)
 
 En la barra superior de la pantala principal del IDE, hay una opción llamada "team", la cual
 clickeamos para inmediatamente hacer lo mismo con la opción git, del menú que desplega, a 
