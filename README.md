@@ -38,4 +38,6 @@ usuario en la plataforma.
 
 # Descripción Técnica
 ## Servidor Web HTTP
+![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/img/ServidorWeb.PNG)
+
 ## Servidor Web HTTPS
