@@ -23,7 +23,7 @@ y escribir aplicaciones en código Java, además de otros lenguajes de programac
 
 ### 3. Descarga del código del repositorio de Github
 
-![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/main/imagen.png)
+![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/img/imagen.png)
 
 En la barra superior de la pantala principal del IDE, hay una opción llamada "team", la cual
 clickeamos para inmediatamente hacer lo mismo con la opción git, del menú que desplega, a 
