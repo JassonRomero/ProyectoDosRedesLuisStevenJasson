@@ -37,3 +37,5 @@ Ya en ésta parte podemos ingresar la url del repositorio, junto con los datos d
 usuario en la plataforma.
 
 # Descripción Técnica
+## Servidor Web HTTP
+## Servidor Web HTTPS
