@@ -56,6 +56,6 @@ Cuando no se especifica ninguna página en concreto se mostrara la que se coloqu
 ### static final String ArchivoNoEncontrado = " Error.html";
 Aca se coloca eol nombre de la página que se encarga de mostrar cuando ocurre un error por si se quiere cambiar seria solo sustituir por la nueva página de error.
 ### Certificado y puerto de conexión
+Se especifican los certificados junto con sus contraseñas, por lo cual si se cambia el certificado para la comunicacion segura se debe cambiar en esta seccion. Además cuando se hace "ServerSocket serverSocket = serverFactory.createServerSocket(9009);" se especifica el puerto de conexión por lo cual de desar otro se debe sustituir en esta parte.
 ![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/img/main.PNG)
-Se especifican los certificados junto con sus contraseñas, por lo cual si se cambia el certificado para la comunicacion segura se debe cambiar en esta seccion. Además cuando se hace "ServerSocket serverSocket = serverFactory.createServerSocket(9009);" se especifica el puerto de conexión por lo cual de desar otro se debe sustituir en esta parte 
 
