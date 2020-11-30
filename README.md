@@ -45,6 +45,17 @@ Aqui se define la ruta por defecto donde se buscan todas las páginas web por lo
 Cuando no se especifica ninguna página en concreto se mostrara la que se coloque en esta sección.
 ### static final String ArchivoNoEncontrado = "Error.html";
 Aca se coloca eol nombre de la página que se encarga de mostrar cuando ocurre un error por si se quiere cambiar seria solo sustituir por la nueva página de error.
-### final int PuertoConeccion = 9009;
+### final int PuertoConexión = 9009;
 Aca se especifica por el puerto por el cual se estara conectado por lo cual si se desea conectar por otro puerto seria solo modificar este valor.
 ## Servidor Web HTTPS
+![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/img/ServidorHTTPS.PNG)
+### static final File RutaWeb = new File("ArchivosServidorWeb\\");
+Aqui se define la ruta por defecto donde se buscan todas las páginas web por lo cual si se desea acceder a las páginas de otro lado se debe modificar esta dirección o agregar las páginas en este lugar.
+### static final String PaginaPorDefecto = "Pagina1.html";
+Cuando no se especifica ninguna página en concreto se mostrara la que se coloque en esta sección.
+### static final String ArchivoNoEncontrado = " Error.html";
+Aca se coloca eol nombre de la página que se encarga de mostrar cuando ocurre un error por si se quiere cambiar seria solo sustituir por la nueva página de error.
+### Certificado y puerto de conexión
+![](https://github.com/JassonRomero/ProyectoDosRedesLuisStevenJasson/blob/img/main.PNG)
+Se especifican los certificados junto con sus contraseñas, por lo cual si se cambia el certificado para la comunicacion segura se debe cambiar en esta seccion. Además cuando se hace "ServerSocket serverSocket = serverFactory.createServerSocket(9009);" se especifica el puerto de conexión por lo cual de desar otro se debe sustituir en esta parte 
+
